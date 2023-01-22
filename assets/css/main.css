@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main-bg: #1A1B1A;
+  --header-bg: #F3C645;
+  --section2-color: #FCC403;
+}
+body {
+  background-color: var(--main-bg);
+  direction: rtl;
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "Tajawal-Medium";
+  src: local("Tajawal"),
+  url(~assets/fonts/Tajawal/Tajawal-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Lemon-Medium";
+  src: local("Lemon"),
+  url(~assets/fonts/Lemon/Lemon-Medium.otf) format("truetype");
+}
+
+html, body {
+  font-family: "Tajawal-Medium";
+}
+
+.product-name {
+  font-family: "Lemon-Bold";
+}
