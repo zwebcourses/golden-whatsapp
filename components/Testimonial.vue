@@ -47,7 +47,7 @@
                 <p v-if="reviewer.header">{{ reviewer.header }}</p>
                 <span class="font-bold">{{ reviewer.response }}</span><br />
                 <span class="text-[#7E7E7E] text-xs" dir="ltr">
-                  {{ reviewer.timeMessage }}
+                  {{ reviewer.timeResponse }}
                 </span>
               </div>
             </div>
