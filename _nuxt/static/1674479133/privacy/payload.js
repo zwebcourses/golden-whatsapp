@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/privacy", {data:[{_img:{"/_ipx/f_webp/img/section_1/ultimate_logo.webp":"\u002F_nuxt\u002Fimage\u002Fa73bba.webp","/_ipx/f_webp/img/instagram.png":"\u002F_nuxt\u002Fimage\u002F29623a.webp"}}],fetch:{},mutations:void 0});
